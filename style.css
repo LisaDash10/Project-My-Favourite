@@ -1,0 +1,85 @@
+.menu{
+    list-style: none;
+    top: 0;
+    right: 30;
+    cursor: pointer;
+}
+
+body{
+    text-align: center;
+}
+
+li{
+    font-size: 13px;
+    display: inline;    
+    margin-right: 5px;
+}
+
+#heading{
+    font-family: 'Lobster', cursive;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#name{
+    font-family: 'Lobster', cursive;
+    color: blueviolet;
+}
+
+p{
+    font-family: 'PT Serif', serif;
+}
+
+#profile{
+    width: 250px;
+    border: 2px solid grey;
+    padding: 2px;
+    box-shadow: 10px 10px 15px grey;
+    border-radius: 50%;
+}
+
+#welcome{
+    height: 500px;
+    background: linear-gradient(#F57C00 0%,#FFEE58 100%);
+    padding-top: 100px;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+
+#myCarousel
+{
+    background-color:bisque;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarouse2
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
